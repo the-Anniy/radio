@@ -398,7 +398,7 @@ public class RadioTest {
     }
 
     @Test
-    public void Count() {
+    public void setConstructorStations() {
         Radio radio = new Radio(25);
 
         radio.setCurrentStation(12);

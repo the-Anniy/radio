@@ -3,7 +3,7 @@ public class Radio {
     private int currentVolume;
     private int lastStation;
 
-    public Radio(){
+    public Radio() {
         this.lastStation = 9;
     }
 
